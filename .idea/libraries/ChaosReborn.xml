@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChaosReborn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChaosReborn.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
